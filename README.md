@@ -13,7 +13,7 @@ Introducing our Spotify Clone: an immersive front-end replica delivering seamles
 Simply type this on your terminal/console
 
 ```bash
-  git clone https://github.com/Ajay05532/Netflix-clone.git
+  git clone https://github.com/Ajay05532/Spotify-clone.git
 ```
 After CLoning this project you have to change sever according to your local server.
 Open 'index.html' file in your browser.
@@ -22,14 +22,25 @@ Open 'index.html' file in your browser.
 Then go to 'script.js' file, and replace your local server address with the default local server.
 note: replace only the server address.
 
+<img width="234" alt="Screenshot 2024-05-15 at 1 04 38 PM" src="https://github.com/Ajay05532/Spotify-clone/assets/115156392/9342b989-d932-42b0-b74e-fad08709f2d5">
+<img width="360" alt="Screenshot 2024-05-15 at 1 05 41 PM" src="https://github.com/Ajay05532/Spotify-clone/assets/115156392/8b4636a2-810a-42f7-b17b-f6b6a95e2701">
+
+
 ## Screenshots
+<img width="200" alt="Screenshot 2024-05-15 at 12 56 41 PM" src="https://github.com/Ajay05532/Spotify-clone/assets/115156392/0e87e855-adce-4307-856b-e4278d9e6942">
+<img width="200" alt="Screenshot 2024-05-15 at 12 57 15 PM" src="https://github.com/Ajay05532/Spotify-clone/assets/115156392/524eda43-d4e8-424a-b12c-7b06a80318ad">
+<img width="600" alt="Screenshot 2024-05-15 at 12 58 01 PM" src="https://github.com/Ajay05532/Spotify-clone/assets/115156392/1769f960-ed82-4123-8c9c-699eb6e685c4">
 
 
 
 ## Demo
 
 
-https://github.com/Ajay05532/Spotify-clone/assets/115156392/0f0d9293-73c3-40f2-8f92-4f65b7413bb7
+https://github.com/Ajay05532/Spotify-clone/assets/115156392/d90b37ae-dd82-47fe-b435-aa9c597f2f78
+
+
+
+https://github.com/Ajay05532/Spotify-clone/assets/115156392/8b548a28-d9e9-464c-bc63-d0793d61053e
 
 
 
