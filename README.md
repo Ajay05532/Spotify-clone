@@ -15,6 +15,12 @@ Simply type this on your terminal/console
 ```bash
   git clone https://github.com/Ajay05532/Netflix-clone.git
 ```
+After CLoning this project you have to change sever according to your local server.
+Open 'index.html' file in your browser.
+
+<img width="221" alt="Screenshot 2024-05-15 at 12 35 24 PM" src="https://github.com/Ajay05532/Spotify-clone/assets/115156392/16401367-2641-46bc-98b1-b2796d2b4cc7">
+Then to go,script.js' file, and replace your local sever address with default local sever.
+note: replace only sever address.
 
 ## Screenshots
 
