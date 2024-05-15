@@ -19,14 +19,18 @@ After CLoning this project you have to change sever according to your local serv
 Open 'index.html' file in your browser.
 
 <img width="221" alt="Screenshot 2024-05-15 at 12 35 24 PM" src="https://github.com/Ajay05532/Spotify-clone/assets/115156392/16401367-2641-46bc-98b1-b2796d2b4cc7">
-Then to go,script.js' file, and replace your local sever address with default local sever.
-note: replace only sever address.
+Then go to 'script.js' file, and replace your local server address with the default local server.
+note: replace only the server address.
 
 ## Screenshots
 
 
 
 ## Demo
+
+
+https://github.com/Ajay05532/Spotify-clone/assets/115156392/0f0d9293-73c3-40f2-8f92-4f65b7413bb7
+
 
 
 ## 🔗 Links
